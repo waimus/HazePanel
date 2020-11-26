@@ -1,0 +1,15 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Haze Panel
+Name[x-test]=xxHaze Panelxx
+
+Type=Service
+ServiceTypes=Plasma/LayoutTemplate
+X-Plasma-Shell=plasmashell
+X-Plasma-ContainmentCategories=panel
+X-KDE-PluginInfo-Author=Abiyasa Musyafa
+X-KDE-PluginInfo-Email=abiyasamusyafa@gmail.com
+X-KDE-PluginInfo-Name=org.kde.plasma.desktop.hazePanel
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-EnabledByDefault=true 
