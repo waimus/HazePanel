@@ -72,7 +72,7 @@ panel.addWidget("org.kde.plasma.panelspacer")
 // Show Desktop widget
 var desktopwidget = panel.addWidget("org.kde.plasma.minimizeall")
 desktopwidget.currentConfigGroup = ["Shortcuts"]
-desktopwidget.writeConfig("global", "Metal+M")
+desktopwidget.writeConfig("global", "Meta+M")
 
 // System tray
 var tray = panel.addWidget("org.kde.plasma.private.systemtray")
