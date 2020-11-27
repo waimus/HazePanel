@@ -8,7 +8,7 @@
 
 // Panel instantiation & setup
 var panel = new Panel();
-panel.location = "bottom";
+panel.location = "top";
 panel.height = Math.round(gridUnit * 1.5);
 
 ////////////////////////////////////////////////////////
