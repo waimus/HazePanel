@@ -11,16 +11,16 @@ I simply call it "Haze" because of my desktop wallpaper colour I'm using at the 
 
 ## Images
 <img src="./img/1-empty.png" align="center"></br>
-> No window on desktop.</br>
+<p align="center"><i>No window on desktop.</i></p></br>
 
 <img src="./img/2-floating.png" align="center"></br>
-> Active floating window.</br>
+<p align="center"><i>Active floating window.</i></p></br>
 
 <img src="./img/3-full.png" align="center"></br>
-> Maximized window with global menu.</br>
+<p align="center"><i>Maximized window with global menu.</i></p></br>
 
 <img src="./img/4-fullnomenu.png" align="center"></br>
-> Maximized window with no global menu.</br>
+<p align="center"><i>Maximized window with no global menu.</i></p></br>
 
 ## Requirements
 This panel uses following external plasmoid widgets:
@@ -31,7 +31,7 @@ Plasmoid                                                        | Get from
 **Application Title** (org.communia.apptitle)                   | https://store.kde.org/p/1199712/
 **Better Inline Clock** (org.kde.plasma.betterinlineclock)      | https://store.kde.org/p/1245902/
 **Panel Transparency Button** (org.kde.paneltransparencybutton) | https://store.kde.org/p/1338479/</br>
-
+-----------
 Please make sure they are installed before adding Haze Panel.
 
 ## Installation
@@ -40,4 +40,8 @@ Please make sure they are installed before adding Haze Panel.
 
 Simply place the `org.kde.plasma.desktop.hazePanel` folder to `~/.local/share/plasma/layout-templates/`. Then you can add the panel from desktop. Create `layout-templates` directory if it doesn't exist.</br>
 </br>
+
+------------
 Feel free to customize the setting from what I've set. Like the calendar formatting I personally set to `dddd, d MMMM 202-` because it's been 2- years since the Black Mesa Incident :D
+
+<!--I like writing in markdown. I took more time writing this than the panel scripting :D-->
